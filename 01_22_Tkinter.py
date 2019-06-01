@@ -4,6 +4,7 @@ from tkinter import ttk
 numVentanas = 0
 pos_y = 0
 pos_x = 0
+a = "borrar esto es una prueba"
 
 def abrirM():
     abrir(True)
